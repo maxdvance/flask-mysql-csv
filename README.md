@@ -7,3 +7,6 @@ MySQL db configuration and query can be modified.
 
 Localhost:
 http://127.0.0.1:5000/
+
+For details:
+https://medium.com/@syuumak/use-flask-to-convert-a-pandas-dataframe-mysql-data-to-csv-5751b69c067e
